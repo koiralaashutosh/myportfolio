@@ -1,0 +1,71 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;
+    color: #343a40;
+    transition-property: width;
+}
+header {
+    text-align: center;
+    background-color: #007bff;
+    padding: 30px;
+    color: #fff;
+}
+
+#ashutosh{
+    height: 250x;
+    width: 250px;
+    border-radius: 50%;
+}
+nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+section {
+    width: 80%;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 8px;
+}
+
+h2 {
+    color: #007bff;
+}
+
+h3 {
+    color: #333;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+
+#skills {
+    background-color: #f8f9fa;
+}
+
+#general-skills, #technical-skills {
+    margin-bottom: 20px;
+}
+
+#general-skills ul, #technical-skills ul {
+    padding-left: 20px;
+}
+
+#general-skills li, #technical-skills li {
+    background-color: #d1ecf1;
+    padding: 10px;
+    border-radius: 5px;
+}
+
